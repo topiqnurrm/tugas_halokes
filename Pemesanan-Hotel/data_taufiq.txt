@@ -1,0 +1,8 @@
+2023-12-20,Hotel A,Kamar Standard,300000
+2023-12-22,Hotel A,Kamar Standard,300000
+2023-10-1,Hotel C,Kamar Suite,700000
+2023-11-2,Hotel C,Kamar Suite,700000
+2023-12-30,Hotel C,Kamar Suite,700000
+2023-12-29,Hotel B,Kamar Suite,700000
+2024-01-01,Hotel C,Kamar Suite,700000
+2024-01-01,Hotel C,Kamar Deluxe,500000
