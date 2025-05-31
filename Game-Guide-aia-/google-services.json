@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268287794184",
+    "project_id": "gameguide-master",
+    "storage_bucket": "gameguide-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268287794184:android:0308773f26c7636169c5bd",
+        "android_client_info": {
+          "package_name": "GameGuide.Master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268287794184-0l4k01qac0tqm1a9b6dq2keqgrkev82q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "GameGuide.Master",
+            "certificate_hash": "335f0d25e098c7d637fb9f3a0eb2a752024e8bfe"
+          }
+        },
+        {
+          "client_id": "268287794184-ruh1phg11t4ovvui1476ib091ghbeinr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRRd9d-SNJ41SQ217scqovPxt4bymBjIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268287794184-ruh1phg11t4ovvui1476ib091ghbeinr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

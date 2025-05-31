@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "522313893496",
+    "project_id": "elination-68c7c",
+    "storage_bucket": "elination-68c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522313893496:android:103077b5fd8994c880cf8d",
+        "android_client_info": {
+          "package_name": "id.taufiq.elination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522313893496-rg76jfcrec643ubro3o1qe340jabqdhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.taufiq.elination",
+            "certificate_hash": "335f0d25e098c7d637fb9f3a0eb2a752024e8bfe"
+          }
+        },
+        {
+          "client_id": "522313893496-ucch89mu2ovbglbgqi3uhihb4ta9hh85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Akk4yk2krYiaafbYCpSLiDJplIn1USg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522313893496-ucch89mu2ovbglbgqi3uhihb4ta9hh85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
